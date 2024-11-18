@@ -7,12 +7,19 @@ The Weather Dashboard is a dynamic application that allows users to search for a
 ## Table of Contents
 
 -[Description](#description)
+
 -[Features](#Features)
+
 -[Installation](#Installation)
+
 -[Screenshot](#ScreenShot)
+
 -[Usage](#Usage)
+
 -[TechnologiesUsed](#TechnologiesUsed)
+
 -[License](#License)
+
 -[Questions](#Questions)
 
 ## Features
