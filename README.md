@@ -9,8 +9,9 @@ The Weather Dashboard is a dynamic application that allows users to search for a
 -[Description](#description)
 -[Features](#Features)
 -[Installation](#Installation)
+-[Screenshot](#ScreenShot)
 -[Usage](#Usage)
--[Technologies Used](#Technologies Used)
+-[Technologies_Used](#Technologies Used)
 -[License](#License)
 -[Questions](#Questions)
 
@@ -20,7 +21,7 @@ The Weather Dashboard is a dynamic application that allows users to search for a
     Displays temperature, wind speed, and humidity for the searched city.
 -5-Day Forecast:
     Provides a detailed 5-day outlook for temperature, wind, and humidity.
--earch History:
+-Search History:
     Saves recently searched cities for quick access.
 -Interactive Design:
     Responsive layout for desktop and mobile views.
@@ -34,7 +35,12 @@ The Weather Dashboard is a dynamic application that allows users to search for a
 
 2. cd Derecho-Sphere
 
-3. Open the index.html file in your browser to run the application locally
+3. Open the index.html file in your browser to run the application 
+    locally
+
+## ScreenShot
+
+![alt text](<Screenshot 2024-11-18 071916.png>)
 
 
 ## Usage
